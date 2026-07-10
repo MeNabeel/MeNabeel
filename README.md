@@ -76,25 +76,6 @@ Final Year Software Engineering student passionate about building scalable web a
 
 ---
 
-### Developer Insights
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-### Top Contributed Repositories
-
-<div align="center">
-
-[![PetLink](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=petlink&theme=dark)](https://github.com/MeNabeel/petlink)
-[![Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=resume-builder&theme=dark)](https://github.com/MeNabeel/resume-builder)
-
-</div>
-
-<!-- Contributor stats (shows your most active repos) -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MeNabeel&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
-
 <br/>
 <div align="center">
   <a href="https://visitcount.itsvg.in">
