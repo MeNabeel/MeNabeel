@@ -53,26 +53,26 @@ Final Year Software Engineering student passionate about building scalable web a
 
 ## Analytics & Contributions
 
-<!-- GitHub Stats - Fixed with proper alignment -->
+<!-- GitHub Stats Cards - Fixed Display -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeNabeel&theme=radical&hide_border=false" alt="GitHub Streak" width="450"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeNabeel&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeNabeel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeNabeel&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
+
+---
+
+### Developer Insights
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
 
 ---
 
