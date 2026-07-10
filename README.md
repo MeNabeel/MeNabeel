@@ -53,14 +53,28 @@ Final Year Software Engineering student passionate about building scalable web a
 
 ## Analytics & Contributions
 
+<!-- GitHub Stats - Fixed with proper alignment -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MeNabeel&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeNabeel&theme=radical&hide_border=false" alt="GitHub Streak" width="450"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br/>
+
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeNabeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeNabeel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450"/>
 </div>
+
+---
 
 ### Developer Insights
 <div align="center">
