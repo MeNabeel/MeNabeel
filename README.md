@@ -1,6 +1,6 @@
 # Nabeel Ijaz | Software Engineer
 
-Final Year Software Engineering student passionate about building scalable web applications and intelligent systems. I work across the stack—from MERN (MongoDB, Express, React, Node.js) to C++ OOP & DSA—and I’m actively exploring AI/ML.
+Final Year Software Engineering student passionate about building scalable web applications and intelligent systems. I work across the stack—from MERN (MongoDB, Express, React, Node.js) to C++ OOP & DSA—and I'm actively exploring AI/ML.
 
 ### About Me
 * **🎯 Focus:** Building full-stack applications, problem-solving, clean architecture, and learning AI-driven solutions.
@@ -16,9 +16,10 @@ Final Year Software Engineering student passionate about building scalable web a
 * **Education Guidance Platform:** Interactive student resource system.
 
 ### Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelijaz-developer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NabeelIjaz559@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NabeelIjaz559@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeNabeel)
 
 ---
 
@@ -67,6 +68,19 @@ Final Year Software Engineering student passionate about building scalable web a
 </div>
 
 ### Top Contributed Repositories
+
+<div align="center">
+
+<!-- Replace these with your actual repository names -->
+[![PetLink](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=petlink&theme=dark)](https://github.com/MeNabeel/petlink)
+[![ATELIER](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=atelier&theme=dark)](https://github.com/MeNabeel/atelier)
+
+[![AI Orchestrator](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=ai-orchestrator&theme=dark)](https://github.com/MeNabeel/ai-orchestrator)
+[![Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=resume-builder&theme=dark)](https://github.com/MeNabeel/resume-builder)
+
+</div>
+
+<!-- Contributor stats (shows your most active repos) -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MeNabeel&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
@@ -77,6 +91,7 @@ Final Year Software Engineering student passionate about building scalable web a
     <img src="https://visitcount.itsvg.in/api?id=MeNabeel&icon=0&color=0" alt="Profile Views" />
   </a>
 </div>
+
 <details>
 <summary>🤍 Hidden Commit History</summary>
 
