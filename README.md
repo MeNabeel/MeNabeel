@@ -16,7 +16,7 @@ Final Year Software Engineering student passionate about building scalable web a
 * **Education Guidance Platform:** Interactive student resource system.
 
 ### Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://your-portfolio-url.com](https://portfolio-eight-sigma-32zlaib6ci.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelijaz-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NabeelIjaz559@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeNabeel)
@@ -73,10 +73,7 @@ Final Year Software Engineering student passionate about building scalable web a
 
 <!-- Replace these with your actual repository names -->
 [![PetLink](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=petlink&theme=dark)](https://github.com/MeNabeel/petlink)
-[![ATELIER](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=atelier&theme=dark)](https://github.com/MeNabeel/atelier)
-
-[![AI Orchestrator](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=ai-orchestrator&theme=dark)](https://github.com/MeNabeel/ai-orchestrator)
-[![Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=resume-builder&theme=dark)](https://github.com/MeNabeel/resume-builder)
+[![Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=MeNabeel&repo=resume-builder&theme=dark)]([https://github.com/MeNabeel/resume-builder](https://ats-frontend-eta.vercel.app/)
 
 </div>
 
