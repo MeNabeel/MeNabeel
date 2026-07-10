@@ -152,3 +152,44 @@ Final Year Software Engineering student passionate about building scalable web a
 git log --oneline --graph --all
 # * one-sided-love (HEAD) - "Fell deeply"
 # * main - "Busy with other PRs"
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/MeNabeel?v=4" width="120" alt="Nabeel Ijaz"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Nabeel%20Ijaz-red?style=for-the-badge"/>
+
+<br><br>
+
+| 🚀 Code Passion | 💡 Problem Solver | 🌱 Lifelong Learner | 🤝 Team Player |
+|:---------------:|:----------------:|:------------------:|:--------------:|
+| ![](https://img.shields.io/badge/-Passionate-red?style=flat-square) | ![](https://img.shields.io/badge/-Creative-yellow?style=flat-square) | ![](https://img.shields.io/badge/-Always%20Learning-green?style=flat-square) | ![](https://img.shields.io/badge/-Collaborative-blue?style=flat-square) |
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Full-Stack+Developer+%7C+AI+Enthusiast;Cloud+%7C+DevOps+%7C+Open+Source;Always+Learning+Something+New+🌱" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📅-Last%20Updated-July%202026-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤝-Open%20to%20Collaboration-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/📫-Let's%20Connect-blueviolet?style=flat-square"/>
+
+<br><br>
+
+⭐ **If you enjoyed my work, consider starring my repositories!**
+
+<br>
+
+**© 2026 Nabeel Ijaz • Crafted with ❤️ using GitHub**
+
+</div>
