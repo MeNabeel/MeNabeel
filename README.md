@@ -127,8 +127,8 @@ Final Year Software Engineering student passionate about building scalable web a
 
 ### Profile Views
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MeNabeel&icon=5&color=12" alt="Profile Views" />
+  <a href="https://github.com">
+    <img src="https://seeyoufarm.com" alt="Profile Views" />
   </a>
 </div>
 
