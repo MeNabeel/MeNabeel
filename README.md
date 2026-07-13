@@ -105,7 +105,7 @@ Final Year Software Engineering student passionate about building scalable web a
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=MeNabeel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeNabeel&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
@@ -125,12 +125,7 @@ Final Year Software Engineering student passionate about building scalable web a
 
 ---
 
-### Profile Views
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://seeyoufarm.com" alt="Profile Views" />
-  </a>
-</div>
+
 
 ---
 
